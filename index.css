@@ -10,12 +10,16 @@ h3 {
   font-size: 25px;
 }
 
+h4 {
+  font-sie : 20px;
+}
+
 nav {
   color: 	#CCCC00;
 }
 table, th, td {
   border: 1px solid black;
-  font-size: 10px;
+  font-size: 20px;
   font-family: 'Castoro', serif;
 
 }
@@ -37,7 +41,7 @@ table {
 }
 
 p {
-  font-size: 10px;
+  font-size: 20px;
   font-family: 'Castoro', serif;
 }
 .smallBlack {
