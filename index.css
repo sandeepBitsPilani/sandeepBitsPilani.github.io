@@ -3,6 +3,7 @@ html {
 }
 
 h1 {
+  font-family: 'Castoro', serif;
   color:#000080;
 }
 
@@ -16,7 +17,7 @@ table, th, td {
   font-family: 'Castoro', serif;
 
 }
-h1, h3, h4, h5 {
+h3, h4, h5 {
   font-family: 'Castoro', serif;
     color:#006400;
 }
